@@ -34,20 +34,3 @@ a {
 ::-webkit-scrollbar-track {
   background-color: transparent;
 }
-
-/*
-className='outline-none capitalize bg-white text-gray-700 text-md p-2 hover:bg-slate-300'
-*/
-
-
-.option-css{
-  color:gray;
-  outline:none;
-  text-transform: capitalize;
-  background-color: white;
-  font-size: 1rem;
-  padding:0.5rem;
-}
-.option-css:hover{
-  background-color: rgb(203 213 225);
-}
